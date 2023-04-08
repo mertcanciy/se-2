@@ -1,3 +1,7 @@
+#BUIDLGUIDL HACKATHON PROJECT!
+Here is the demo for the project:
+https://www.loom.com/share/a896156d1d9c4e1ea6e5892ad3ffd47a
+
 # Scaffold-Eth 2
 
 ⚠️ This project is currently under active development. Things might break. Feel free to check the open issues & create new ones.
